@@ -1,4 +1,0 @@
-Hi
-I am from USA
-This is merge conflict
-edit in feature1
