@@ -1,3 +1,4 @@
 Hi
-I am from India
-This is merge conflict 
+I am from USA
+This is merge conflict
+edit in feature1
