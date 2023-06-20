@@ -1,5 +1,0 @@
-hi
-im from usa
-i like friuts
-
->>>>>>> f1
